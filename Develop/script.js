@@ -36,7 +36,7 @@ function writePassword() {
     if (lowercaseInput) {
         passGen += lowercase;
     }
-    //----If user doesn't confirm a selection, passGen remains the same-----///
+    //----For each Confirm, If user doesn't confirm a selection, "passGen" remains the same-----///
     else {
       passGen = passGen
     }
