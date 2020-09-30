@@ -22,5 +22,6 @@ I used .toUpperCase on the Lowercase letters
 I used ".textcontent" to set the new password
 
 [Deployment Link ](https://jsmithonline82.github.io/03-PASSWORD_GENERATOR/Develop/index.html)
-[img of index]
+[img of index](https://jsmithonline82.github.io/03-PASSWORD_GENERATOR/Index.png)
+
 
